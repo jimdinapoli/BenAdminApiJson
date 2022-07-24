@@ -1,0 +1,19 @@
+{
+    "plans": [
+        {
+            "id": 1234,
+            "name": "Horizon - DIRECT ACCESS",
+            "Category": "Health"
+        },
+        {
+            "id": 1235,
+            "name": "Horizon - HMO - HSA",
+            "Category": "Health"
+        },
+        {
+            "id": 1236,
+            "name": "Horizon - DIRECT ACCESS - HMO",
+            "Category": "Health"
+        }
+    ]
+}
