@@ -1,11 +1,11 @@
 {
     "plans": [
         {
-            "id": 0,
-            "category": "",
-            "name": "",
-            "title": "",
-            "description": "",
+            "id": 1,
+            "category": "Direct Access",
+            "name": "Direct Access",
+            "title": "Horizon - Direct Access",
+            "description": "Description goes here...",
             "requiresEligibility": 1,
             "checkboxOptions": {
                 "employerPaid": false,
