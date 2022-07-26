@@ -7,7 +7,7 @@
             "title": "Horizon - Direct Access",
             "description": "Description goes here...",
             "requiresEligibility": 1,
-            "checkboxOptions": {
+            "planOptions": {
                 "employerPaid": false,
                 "openEnrollmentOnly": false
             }
