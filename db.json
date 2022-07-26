@@ -1,20 +1,16 @@
 {
-   "plans": [
+    "plans": [
         {
-            "id": 1,
-            "category": "Direct Access",
-            "name": "Direct Access",
-            "title": "Hirozon - Direct Access",
+            "id": 0,
+            "category": "",
+            "name": "",
+            "title": "",
             "description": "",
             "requiresEligibility": 1,
             "checkboxOptions": {
-                "employerPaid": true,
-                "openEnrollmentOnly": true
-            },
-            "requireEligibilityOptions": [
-              { "label": 1},
-              { "label": 0}
-            ]
+                "employerPaid": false,
+                "openEnrollmentOnly": false
+            }
         }
     ]
 }
