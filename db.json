@@ -1,19 +1,40 @@
 {
     "plans": [
         {
-            "id": 1234,
-            "name": "Horizon - DIRECT ACCESS",
-            "Category": "Health"
+            "id": 0,
+            "category": "",
+            "name": "",
+            "title": "",
+            "description": "",
+            "requiresEligibility": 1,
+            "checkboxOptions:" {
+                "employerPaid": false,
+                "openEnrollmentOnly": false
+            }
         },
         {
-            "id": 1235,
-            "name": "Horizon - HMO - HSA",
-            "Category": "Health"
+            "id": 0,
+            "category": "",
+            "name": "",
+            "title": "",
+            "description": "",
+            "requiresEligibility": 1,
+            "checkboxOptions:" {
+                "employerPaid": false,
+                "openEnrollmentOnly": false
+            }
         },
         {
-            "id": 1236,
-            "name": "Horizon - DIRECT ACCESS - HMO",
-            "Category": "Health"
+            "id": 0,
+            "category": "",
+            "name": "",
+            "title": "",
+            "description": "",
+            "requiresEligibility": 1,
+            "checkboxOptions:" {
+                "employerPaid": false,
+                "openEnrollmentOnly": false
+            }
         }
     ]
 }
